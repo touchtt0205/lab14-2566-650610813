@@ -36,7 +36,8 @@ export default function FoodReviewPage() {
     <Pagination Pagination total={20} position="center" color="orange" mt="md"/>
 
       <Text align="center" color="dimmed" my="sm">
-        Copyright © 2023 Sippakon Khammisawang 650610813
+      Copyright © 2023 Sippakon Khammisawang 650610813
+        
       </Text>
     </Container>
   );
